@@ -1,4 +1,4 @@
-# Royalty Distribution Contract - Test Project
+# Royalty Distribution Contract - Test Task
 
 This project includes a Solidity smart contract called "RoyaltyDistribution" that implements a simple royalty distribution system among multiple addresses. The contract allows for deposits and distributions, with certain restrictions. The contract ensures that only the contract owner can deposit funds and perform the royalty distribution. Additionally, the distribution can occur only once every 24 hours.
 
